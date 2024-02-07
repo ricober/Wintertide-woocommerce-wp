@@ -1,0 +1,9 @@
+2023-10-18T12:13:34+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\wintertide\wp-content\plugins\ninja-forms\ninja-forms.php:1231
+Stack trace:
+#0 C:\xampp\htdocs\wintertide\wp-includes\class-wp-hook.php(310): nf_update_marketing_feed()
+#1 C:\xampp\htdocs\wintertide\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wintertide\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wintertide\wp-cron.php(191): do_action_ref_array('nf_marketing_fe...', Array)
+#4 {main}
+  thrown en C:\xampp\htdocs\wintertide\wp-content\plugins\ninja-forms\ninja-forms.php en la línea 1231
+

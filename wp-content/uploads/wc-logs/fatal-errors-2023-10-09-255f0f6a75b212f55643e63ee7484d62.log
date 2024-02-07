@@ -1,0 +1,4 @@
+2023-10-09T15:12:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\wintertide\wp-includes\Requests\src\Iri.php en la línea 72
+
+2023-10-09T15:13:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp\htdocs\wintertide\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php en la línea 65
+
